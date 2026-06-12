@@ -22,7 +22,7 @@ This project develops an AI-powered EV charging optimization framework using lar
 - Pandas
 - NumPy
 - Scikit-learn
-- XGBoost
+- Random Forest Regressor
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
